@@ -5,4 +5,4 @@
 - Structural patterns
 - Behavioural patterns
 
-## Full list of implemented patterns (and some text description) can be found here: https://refactoring.guru/design-patterns
+### Full list of implemented patterns (and some text description) can be found here: https://refactoring.guru/design-patterns
